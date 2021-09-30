@@ -1,0 +1,6 @@
+pandas
+pyautogui
+keyboard
+pywhatkit
+datetime
+openpyxl
